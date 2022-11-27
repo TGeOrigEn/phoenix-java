@@ -1,0 +1,8 @@
+/.gradle
+/.idea
+/build
+/gradle
+/out
+/allure-results
+gradlew.bat
+gradlew
